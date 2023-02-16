@@ -5,7 +5,7 @@ import com.example.client1.Application;
 import javafx.fxml.FXML;
 import java.net.URL;
 import java.util.ResourceBundle;
-;
+
 public class EditBookController {
 
 
